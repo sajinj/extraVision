@@ -1,6 +1,6 @@
 # extra_vision
 
-A new Flutter project.
+An app for testing your English skills ! 
 
 ## Getting Started
 
